@@ -14,7 +14,7 @@ cid(camera id), fid(frame id), pid(person id), tl_x, tl_y, w, h
 	python evalMCTA.py --gt_path PATH/TO/GT --pred_path PATH/TO/PRED
   
 ### example
-	python evalMCTA.py --gt_path example/gt.csv --pred_path example/pred.csv
+	python evalMCTA.py --gt_path example/gt --pred_path example/pred
   
 -----
 Thank you :)
