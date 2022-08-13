@@ -5,7 +5,7 @@ Python version of multiple camera tracking accuracy (MCTA).
 This code refers to the official evaluation toolkit on http://www.mct2014.com/Evaluation.html.
 And rewrite it as python version.
 
-The format of groundtruth and prediction are:
+The column of csv file is:
 cid(camera id), fid(frame id), pid(person id), tl_x, tl_y, w, h
 
 -----
