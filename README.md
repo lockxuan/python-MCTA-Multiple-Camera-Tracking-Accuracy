@@ -1,5 +1,5 @@
 # python-MCTA-Multiple-Camera-Tracking-Accuracy
-======
+  
 Python version of multiple camera tracking accuracy (MCTA).
   
 This code refers to the official evaluation toolkit on http://www.mct2014.com/Evaluation.html.
